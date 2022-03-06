@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ss168638
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning QtC++
+- 🌱 I’m currently learning QtC++, Python, FastAPI.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me email me on surajsharma9085@yahoo.com
 
